@@ -7,7 +7,6 @@ theme = "PaperMod"
   home = ["HTML", "RSS", "JSON"]
 
 [params]
-  googleAnalytics = "G-KJH2YBCJ9T"
   googleSiteVerify = "vnj3rMs_I4J6a3ffvJVRFeaxkcbnGhSCfdCZEGrDZv4"
   homeInfoParams = {Title = "Welcome to TechWave Hub", Content = "Your Source for Tech, AI & Digital Trends"}
   ShowReadingTime = true
