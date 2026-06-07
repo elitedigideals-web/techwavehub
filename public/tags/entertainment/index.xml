@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Entertainment on TechWave Hub</title>
+    <link>/tags/entertainment/</link>
+    <description>Recent content in Entertainment on TechWave Hub</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/entertainment/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Best Free Music Apps for Android in 2025</title>
+      <link>/posts/best-free-music-apps-android/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>/posts/best-free-music-apps-android/</guid>
+      <description>Discover the best free music apps for Android in 2025. Stream, download, and enjoy music without spending a penny.</description>
+    </item>
+  </channel>
+</rss>

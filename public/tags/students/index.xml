@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Students on TechWave Hub</title>
+    <link>/tags/students/</link>
+    <description>Recent content in Students on TechWave Hub</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/students/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Best Free Apps for Students in 2026 (Top Productivity &amp; Study Tools)</title>
+      <link>/posts/best-free-apps-for-students-2026/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>/posts/best-free-apps-for-students-2026/</guid>
+      <description>Discover the best free apps for students in 2026. Boost productivity, improve focus, and study smarter with these top-rated tools.</description>
+    </item>
+  </channel>
+</rss>

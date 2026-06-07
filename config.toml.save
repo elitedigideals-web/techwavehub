@@ -1,0 +1,6 @@
+[sitemap]mkdir -p layouts/_default
+
+
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml

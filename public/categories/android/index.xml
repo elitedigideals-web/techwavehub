@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Android on TechWave Hub</title>
+    <link>/categories/android/</link>
+    <description>Recent content in Android on TechWave Hub</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/categories/android/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This One App Will Change Your Daily Routine Forever</title>
+      <link>/posts/one-app-change-daily-routine-2026/</link>
+      <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+      <guid>/posts/one-app-change-daily-routine-2026/</guid>
+      <description>There is one app that millions of people are using in 2026 to completely transform their daily routine. Here is everything you need to know about it.</description>
+    </item>
+    <item>
+      <title>Best Free Android Apps for Productivity in 2025</title>
+      <link>/posts/best-android-apps-productivity/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>/posts/best-android-apps-productivity/</guid>
+      <description>Boost your productivity with these top free Android apps in 2025. From note-taking to task management, we have got you covered.</description>
+    </item>
+  </channel>
+</rss>

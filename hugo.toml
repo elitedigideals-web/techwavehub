@@ -1,0 +1,40 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "TechWave Hub"
+theme = "PaperMod"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[params]
+  googleSiteVerify = "vnj3rMs_I4J6a3ffvJVRFeaxkcbnGhSCfdCZEGrDZv4"
+  homeInfoParams = {Title = "Welcome to TechWave Hub", Content = "Your Source for Tech, AI & Digital Trends"}
+  ShowReadingTime = true
+  ShowShareButtons = true
+
+[menu]
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 1
+  [[menu.main]]
+    name = "Categories"
+    url = "/categories/"
+    weight = 2
+  [[menu.main]]
+    name = "Search"
+    url = "/search/"
+    weight = 3
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 4
+
+  [[menu.footer]]
+    name = "Privacy Policy"
+    url = "/privacy-policy/"
+    weight = 1
+  [[menu.footer]]
+    name = "Disclaimer"
+    url = "/disclaimer/"
+    weight = 2

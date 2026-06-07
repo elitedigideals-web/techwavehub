@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Graphic Design on TechWave Hub</title>
+    <link>/tags/graphic-design/</link>
+    <description>Recent content in Graphic Design on TechWave Hub</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/graphic-design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Best Free Graphic Design Tools in 2025</title>
+      <link>/posts/best-free-graphic-design-tools/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>/posts/best-free-graphic-design-tools/</guid>
+      <description>Discover the best free graphic design tools available in 2025. Create stunning visuals without spending a single dollar.</description>
+    </item>
+  </channel>
+</rss>

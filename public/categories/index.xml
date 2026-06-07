@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on TechWave Hub</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on TechWave Hub</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Entertainment</title>
+      <link>/categories/entertainment/</link>
+      <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+      <guid>/categories/entertainment/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI Tools</title>
+      <link>/categories/ai-tools/</link>
+      <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+      <guid>/categories/ai-tools/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Android</title>
+      <link>/categories/android/</link>
+      <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+      <guid>/categories/android/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Content Creation</title>
+      <link>/categories/content-creation/</link>
+      <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+      <guid>/categories/content-creation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Education</title>
+      <link>/categories/education/</link>
+      <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+      <guid>/categories/education/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Finance</title>
+      <link>/categories/finance/</link>
+      <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+      <guid>/categories/finance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech Reviews</title>
+      <link>/categories/tech-reviews/</link>
+      <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+      <guid>/categories/tech-reviews/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Design</title>
+      <link>/categories/design/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>/categories/design/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

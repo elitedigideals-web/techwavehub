@@ -1,0 +1,11 @@
+<img style="width:100%;max-height:280px;object-fit:cover;border-radius:12px;animation:fadeInDown 1.2s ease;margin-bottom:15px;" src="https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200" alt="TechWave Hub"/>
+<div id="clock" style="font-size:2.5rem;font-weight:bold;color:#00b4d8;font-family:'Courier New',monospace;text-align:center;text-shadow:0 0 15px #00b4d8;margin:10px 0;"></div>
+<script>
+function tick(){var n=new Date();document.getElementById('clock').textContent=[n.getHours(),n.getMinutes(),n.getSeconds()].map(function(x){return String(x).padStart(2,'0')}).join(':');}
+setInterval(tick,1000);tick();
+</script>
+<style>@keyframes fadeInDown{from{opacity:0;transform:translateY(-30px)}to{opacity:1;transform:translateY(0)}}</style>
+<div style="text-align:center;padding:10px 0;">
+<h1>Welcome to TechWave Hub</h1>
+<p>Your Source for Tech, AI & Digital Trends</p>
+</div>

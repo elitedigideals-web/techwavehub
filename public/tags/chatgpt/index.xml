@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ChatGPT on TechWave Hub</title>
+    <link>/tags/chatgpt/</link>
+    <description>Recent content in ChatGPT on TechWave Hub</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/chatgpt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ChatGPT vs Claude vs Gemini: Which AI is Best in 2026?</title>
+      <link>/posts/chatgpt-vs-claude-vs-gemini-2026/</link>
+      <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+      <guid>/posts/chatgpt-vs-claude-vs-gemini-2026/</guid>
+      <description>ChatGPT, Claude, or Gemini — which AI assistant is the best in 2026? We compare all three in detail to help you choose the right one.</description>
+    </item>
+    <item>
+      <title>OpenAI &amp; ChatGPT: The Company, the Founders, and the Story Behind the World&#39;s Most Famous AI</title>
+      <link>/posts/openai-chatgpt-company-bio/</link>
+      <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+      <guid>/posts/openai-chatgpt-company-bio/</guid>
+      <description>Who owns ChatGPT? Learn everything about OpenAI, its founders, Sam Altman, and the incredible story behind the world&amp;#39;s most famous AI chatbot.</description>
+    </item>
+  </channel>
+</rss>
